@@ -7,3 +7,6 @@ It's a simple GIT project
 Files:
 1. Source.txt
 2. data.csv
+
+TODO
+----------
